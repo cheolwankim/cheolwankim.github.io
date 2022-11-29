@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/move.github.io/static/css/main.6a24361b.css",
+    "main.js": "/move.github.io/static/js/main.d3f8c6db.js",
+    "index.html": "/move.github.io/index.html",
+    "main.6a24361b.css.map": "/move.github.io/static/css/main.6a24361b.css.map",
+    "main.d3f8c6db.js.map": "/move.github.io/static/js/main.d3f8c6db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a24361b.css",
+    "static/js/main.d3f8c6db.js"
+  ]
+}
